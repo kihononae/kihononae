@@ -57,42 +57,41 @@ In my time at DeepNeuron, I vowed to be three things:
 
 ---
 
-## 🚀 Projects & Systems
+## 🏗 What I Build
 
-- 🧠 **FERAL Framework** – Our official workshop doctrine, designed for clarity, legacy, and immersion.  
-- 📕 [**Education Handbook**](https://monashdeepneuron.github.io/edu-handbook/) – Strategy, structure, and storyboarding on a silver platter.  
-- 🛠 **VicHack Turnaround** – Took over an event deemed unsalvageable. Engineered 36+ submissions & 135 attendees in under 4 weeks.  
-- 🧭 **DeepNeuron Admin Portal** – Fully integrated Notion-based RPG system tracking all members, projects & contributions.  
-- 💬 **Workshop Workshop** – A meta-workshop series teaching student teams how to design and deliver like MDN.  
-- 🧊 **Escape Cup + Amazing Race** – DeepNeuron-wide team events, redefining cultural cohesion & student team excellence.
+### 🧠 Education Systems
+- 🧾 Co-author of the [**MDN Education Handbook**](https://bit.ly/mdneducation): the definitive guide on storyboarding, presentation mechanics, and workshop architecture.
+- 🛠 Architect of the **FERAL Framework** — MDN’s proprietary doctrine of workshop excellence (Flow, Aesthetic, Relatability, Engagement, Legacy).
+- 📚 Presented "Workshop Workshops" that taught student teams how to teach — now powering a blitz of workshops by MAC, WEM, MNET & more.
 
-<details>
-<summary>📘 <strong>FERAL Framework Breakdown</strong></summary>
+### 🧩 Automation & Admin Ops
+- 🧠 **Gamified Admin Portal** — Full-stack member tracking & RPG reward system via Notion.
+- 🤖 Built **AI-guided Discord bots** to automate onboarding, task logging, and performance triggers.
+- 🔁 Used **vectorisation + reinforcement learning** concepts to prototype adaptive workflow iterators.
 
-- 🔁 **Flow** – Narrative-first design with story-based schematics  
-- 🎨 **Aesthetic** – Branded visuals, animated decks, 3D assets (avg. 315MB per deck 🤯)  
-- 🧲 **Relatability** – Concepts explained through memes, analogies, and student references  
-- 🤝 **Engagement** – 30%+ interactive, hands-on learning  
-- 🏛 **Legacy** – Built to endure, inspire replication across teams
+### 🎨 Design, Branding & Aesthetic Systems
+- 🎬 Designed and rigged **3D model animations** for visual-heavy workshops.
+- ✍️ Built **brand kits** across MDN and collaborative orgs to unify slide language, transitions, fonts, and colours.
+- 📊 Created high-fidelity, 315MB+ PowerPoint decks used in 30+ workshops across Victoria.
 
-</details>
+### 🫂 Events & Cultural Engineering
+- 🎤 Ran **Escape Cup & Amazing Race**, building unforgettable student team engagement.
 
 ---
 
-## 🎤 On Education
+## 🎤 Jayusisms
 
-> “Workshops aren’t lectures. They’re *productions* — story-driven simulations of what education could be.”  
-> “We don’t teach content. We teach *confidence*.”  
-> “The best educators are system engineers. They don’t scale lessons; they scale learning itself.”
+> “Workshops aren't lectures. They're theatrical, story-driven simulations that spark action.”  
+> “Don't scale tasks. Scale the *system* that creates tasks.”  
+> “You don’t build legacy. You overdeliver until legacy builds itself.”
 
 ---
 
 ## 🌐 Let’s Build Together
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/jayus-kion-b4441b1b8/)
-- 📘 [Education Handbook](https://monashdeepneuron.github.io/edu-handbook/)
-- 🌍 [deepneuron.org](https://deepneuron.org/)
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jayus-kion-b4441b1b8/)
+- 🧠 [Education Handbook](https://bit.ly/mdneducation)
+- 🏛 [DeepNeuron.org](https://deepneuron.org/)
 ---
 
 > *"You do not rise to the level of your goals. You fall to the level of your systems."*  
